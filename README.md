@@ -1,6 +1,9 @@
 ## Code Labs Spring 2022
 ## Week 1
-1.	[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)	Hard	Array
+
+| Question(Leet code Link) | Difficulty | Solution | Tags  |
+| ------------------------ |:----------:| --------:| -----:|
+| 1. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Medium |  | Array, Sorting|
 2.	[Merge Intervals](https://leetcode.com/problems/merge-intervals/) Medium 	Array, Sorting
 3.	[Number of Islands](https://leetcode.com/problems/number-of-islands/) Medium Array
 4.	[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) Hard Array
