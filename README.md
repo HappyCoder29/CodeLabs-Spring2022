@@ -9,8 +9,8 @@
 7.	[Expressive Words](https://leetcode.com/problems/expressive-words/)	 Medium Array, String
 8.	[Next Permutation](https://leetcode.com/problems/next-permutation/)	 Medium Array
 9.	[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)	 Medium Array, Sorting
-10.	[3Sum](https://leetcode.com/problems/3sum/) Array, Sorting
-11. [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)	 Hard Array
+10.	[3Sum](https://leetcode.com/problems/3sum/) Medium Array, Sorting
+11.	[Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)	 Hard Array
 12.	[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)	Hard Array
 13.	[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)	Medium Array, Sorting
 14.	[Word Search](https://leetcode.com/problems/word-search/)	Medium Array
